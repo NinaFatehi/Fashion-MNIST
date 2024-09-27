@@ -1,5 +1,5 @@
 # Fashion-MNIST
-In this repository, Singular Value Decomposition (SVD) is applied on Fashion-MNIST dataset.
+In this repository, Singular Value Decomposition (SVD), K-means is applied on Fashion-MNIST dataset.
 
 - SVD function is used to reduce the number of dimensions of the training data
 set so that it explains just above 90% of the total variance.
